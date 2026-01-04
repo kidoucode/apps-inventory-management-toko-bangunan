@@ -112,7 +112,7 @@ Aplikasi ini mendukung manajemen data barang, transaksi barang masuk dan keluar,
   - `opendf-1.3.3.0.jar` → Library untuk mengelola OpenDocument Format (ODF) di JasperReports.  
 ---
 > 📌 **Catatan:** Beberapa library seperti `commons-collections4` digunakan oleh lebih dari satu modul (POI & JasperReports).
-
+---
 
 #### ✨ **Fitur Utama**
 - Manajemen Data Barang

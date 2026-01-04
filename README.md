@@ -55,8 +55,8 @@ Aplikasi ini mendukung manajemen data barang, transaksi barang masuk dan keluar,
 - 🗄️[MySQL 8.0.40](https://downloads.mysql.com/archives/get/p/25/file/mysql-installer-community-8.0.40.0.msi)  
 - ☕[JDK 11](https://www.oracle.com/id/java/technologies/javase/jdk11-archive-downloads.html)  
 
-> 📌 **Catatan :** `Untuk menjalankan versi demo, cukup menggunakan **JDK 11**, karena database sudah di-host secara online.  
-Namun, koneksi ke database mungkin mengalami keterlambatan.`
+> 📌 **Catatan :** Untuk menjalankan versi demo, cukup menggunakan **JDK 11**, karena database sudah di-host secara online.  
+Namun, koneksi ke database mungkin mengalami keterlambatan.
 
 ---
 
@@ -112,7 +112,7 @@ Namun, koneksi ke database mungkin mengalami keterlambatan.`
   - `jasperreports-fonts-7.0.1.jar` → Font tambahan untuk laporan JasperReports.  
   - `opendf-1.3.3.0.jar` → Library untuk mengelola OpenDocument Format (ODF) di JasperReports.  
 ---
-> 📌 **Catatan:** `Beberapa library seperti `commons-collections4` digunakan oleh lebih dari satu modul (POI & JasperReports).`
+> 📌 **Catatan:** Beberapa library seperti `commons-collections4` digunakan oleh lebih dari satu modul (POI & JasperReports).
 
 
 #### ✨ **Fitur Utama**
